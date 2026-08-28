@@ -1,11 +1,9 @@
 {
-  "status": "normal",
-
+  "status": "maintenance",
   "maintenance": {
     "title": "التطبيق تحت الصيانة",
     "message": "بنضيف مميزات جديدة دلوقتي، ممكن تلاقي بعض الأدوات بطيئة مؤقتًا. بياناتك وتصاميمك محفوظة بالكامل ومفيش أي داعي للقلق."
   },
-
   "update": {
     "version": "1.0.0",
     "title": "🎉 جديد في Pixel Studio Pro",
